@@ -1,0 +1,17 @@
+size,390,390,3907,3907,39073,39073
+split,Train,Test,Train,Test,Train,Test
+RandomForest,,,,,,
+DecisionTree,,,,,,
+XGBoost,,,,,,
+LGBM,,,,,,
+CatBoost,,,,,,
+tiny_model,,,,,,
+small_model,,,,,,
+medium_model,,,,,,
+large_model,,,,,,
+dropout_model,,,,,,
+tiny_model_emb,,,,,,
+small_model_emb,,,,,,
+medium_model_emb,,,,,,
+large_model_emb,,,,,,
+dropout_model_emb,,,,,,
