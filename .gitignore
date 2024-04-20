@@ -1,4 +1,5 @@
 .ipynb_checkpoints
+.gitignore
 catboost_info
 checkpoints
 codebase/.ipynb_checkpoints
