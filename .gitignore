@@ -10,3 +10,4 @@ HIGGS.csv.gz
 meta*
 adult.csv
 results*
+.DS_Store
